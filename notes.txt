@@ -1,0 +1,1 @@
+Create the project using  "npx create-expo-app@latest projectname"

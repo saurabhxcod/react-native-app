@@ -21,7 +21,7 @@
 ### 1️⃣ Clone the Repository (for reference)  
 ```sh
 git clone https://github.com/saurabhxcod/react-native-learning.git
-cd react-native-learning
+
 ```
 
 ### 2️⃣ Install Dependencies  
